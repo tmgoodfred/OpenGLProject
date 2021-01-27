@@ -8,6 +8,8 @@
 
 using namespace std;
 
+//adding test comment
+
 string readShaderSource(const char* filePath) {
 	string content;
 	ifstream fileStream(filePath, ios::in);
